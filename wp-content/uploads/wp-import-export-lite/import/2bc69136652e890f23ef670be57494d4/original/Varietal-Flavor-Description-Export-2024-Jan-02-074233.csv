@@ -1,0 +1,209 @@
+"Term ID","Term Name","Term Slug",Description,"Parent ID","Parent Name","Parent Slug",Count
+137,CHARDONNAY,chardonnay,,,,,682
+147,WHITE,white,,,,,2
+149,CHABLIS,chablis,,,,,17
+152,"CRISP WHITE",crisp-white,,,,,18
+155,"MUSCAT (MOSCATO)",muscat-moscato,,,,,134
+163,"WHITE MERLOT",white-merlot,,,,,30
+165,"PINOT GRIGIO/FR COLOMBARD",pinot-grigio-fr-colombard,,,,,66
+169,BLUSH,blush,,,,,21
+173,ROSE,rose,,,,,191
+182,"WHITE ZINFANDEL",white-zinfandel,,,,,158
+189,"DARK RED BLEND",dark-red-blend,,,,,34
+193,RHINE,rhine,,,,,8
+195,BURGUNDY,burgundy,,,,,18
+197,Red,red,,,,,155
+199,"RED SANGRIA",red-sangria,,,,,35
+205,CHIANTI,chianti,,,,,2
+207,"CHILLABLE RED",chillable-red,,,,,15
+213,"CABERNET SAUVIGNON",cabernet-sauvignon,,,,,788
+216,"KIT RED MIXED",kit-red-mixed,,,,,1
+222,MERLOT,merlot,,,,,296
+226,"PINOT NOIR/CARMENERE",pinot-noir-carmenere,,,,,6
+229,"REFRESHING WHITE",refreshing-white,,,,,2
+234,"PINK MOSCATO",pink-moscato,,,,,39
+240,"KIT RED/WHITE MIXED",kit-red-white-mixed,,,,,82
+246,"SWEET RED",sweet-red,,,,,11
+253,SHIRAZ,shiraz,,,,,36
+261,"SAUVIGNON BLANC (FUME BLANC)",sauvignon-blanc-fume-blanc,,,,,307
+293,"PINOT GRIGIO/CHARDONNAY",pinot-grigio-chardonnay,,,,,6
+304,"PINOT NOIR",pinot-noir,,,,,304
+314,"PINOT GRIGIO",pinot-grigio,,,,,338
+321,"DRY VERMOUTH",dry-vermouth,,,,,13
+329,"SWEET VERMOUTH",sweet-vermouth,,,,,14
+361,"PINOT GRIS",pinot-gris,,,,,16
+365,RIESLING,riesling,,,,,35
+403,MARSALA,marsala,,,,,2
+429,CONCORD,concord,,,,,6
+436,BLACKBERRY,blackberry,,,,,4
+441,POMEGRANATE,pomegranate,,,,,3
+449,"ORANGE JUBILEE",orange-jubilee,,,,,4
+453,"STRAWBERRY KIWI",strawberry-kiwi,,,,,1
+455,STRAWBERRY,strawberry,,,,,40
+457,"FOR ERP - BANANA RED",for-erp-banana-red,,,,,2
+462,"PEACHES AND CREAM",peaches-and-cream,,,,,2
+465,"BLUE RASPBERRY",blue-raspberry,,,,,3
+469,"ELECTRIC MELON",electric-melon,,,,,3
+472,"DRAGON FRUIT",dragon-fruit,,,,,2
+489,"CRIMSON &amp; CLOVER",crimson-clover,,,,,3
+491,"PETITE SIRAH",petite-sirah,,,,,54
+525,STAMPMAKER'S,stampmakers,,,,,5
+527,VIOGNIER,viognier,,,,,19
+529,"ASSEMBLAGE RED",assemblage-red,,,,,6
+531,"ASSEMBLAGE BLANC",assemblage-blanc,,,,,6
+533,MALBEC,malbec,,,,,116
+535,"PETITE SIRAH PORT",petite-sirah-port,,,,,4
+541,GRENACHE,grenache,,,,,8
+545,ZINFANDEL,zinfandel,,,,,120
+547,SEMILLON,semillon,,,,,3
+554,"PETIT VERDOT",petit-verdot,,,,,14
+568,"BIG HOUSE RED",big-house-red,,,,,32
+573,"BIG HOUSE WHITE",big-house-white,,,,,18
+594,"ANGEL FOOD",angel-food,,,,,6
+597,"BUTTERKISSED CHARDONNAY",butterkissed-chardonnay,,,,,17
+623,"KIT (OTHER)",kit-other,,,,,1
+631,"BLACK FOREST",black-forest,,,,,14
+636,"RED VELVET",red-velvet,,,,,15
+645,PROSECCO,prosecco,,,,,16
+654,"MOSCATO DASTI",moscato-dasti,,,,,16
+660,"RED SPARKLING",red-sparkling,,,,,2
+663,"ROSE SPARKLING",rose-sparkling,,,,,11
+665,"DEVILS FOOD",devils-food,,,,,
+668,FROSTING,frosting,,,,,
+693,MERLOT/MALBEC,merlot-malbec,,,,,3
+699,TORRONTES,torrontes,,,,,8
+715,"RED BLEND",red-blend,,,,,135
+766,RIESLING/RIVANER,riesling-rivaner,,,,,2
+783,"WHITE SANGRIA",white-sangria,,,,,9
+811,RAINBOW,rainbow,,,,,3
+814,"RADIANT RED",radiant-red,,,,,5
+840,"DROPS OF JUPITER",drops-of-jupiter,,,,,7
+924,"SPICY WHITE",spicy-white,,,,,1
+944,"DEEP RED",deep-red,,,,,5
+962,"FRENCH ROSE",french-rose,,,,,3
+965,SPARKLING,sparkling,,,,,8
+979,"ORANGE MANGO",orange-mango,,,,,1
+981,"STRAWBERRY LIME",strawberry-lime,,,,,1
+983,PINEAPPLE,pineapple,,,,,1
+1019,SYRAH,syrah,,,,,19
+1026,"GIFT BOX/BASKET",gift-box-basket,,,,,3
+1028,BONARDA,bonarda,,,,,2
+1055,"WHITE ZINFANDEL ROSE",white-zinfandel-rose,,,,,1
+1079,BARBERA,barbera,,,,,14
+1108,MULTI,multi,,,,,
+1110,"BLACK MALBEC",black-malbec,,,,,1
+1121,"CREAMY CHARDONNAY",creamy-chardonnay,,,,,3
+1151,Port,port,,,,,2
+1154,"ARCTIC BERRY",arctic-berry,,,,,1
+1156,"ORANGE FLAME",orange-flame,,,,,1
+1158,"PINEAPPLE BLAST",pineapple-blast,,,,,1
+1160,"CITRUS STORM",citrus-storm,,,,,1
+1178,"WHITE BURGUNDY",white-burgundy,,,,,5
+1179,"MIXED WHITE WINE",mixed-white-wine,,,,,20
+1202,"MALBEC/CABERNET FRANC",malbec-cabernet-franc,,,,,2
+1205,SYRAH/VIOGNER,syrah-viogner,,,,,1
+1226,"ROSE SANGRIA",rose-sangria,,,,,17
+1237,"KIT WHITE MIXED",kit-white-mixed,,,,,2
+1246,"ROASTED OAK RED BLEND",roasted-oak-red-blend,,,,,1
+1253,"CHARDONNAY RICH &amp; BUTTERY",chardonnay-rich-buttery,,,,,6
+1311,ALEATICO,aleatico,,,,,
+1315,ALBARINO,albarino,,,,,5
+1317,"BLUEBERRY FRUIT WINE",blueberry-fruit-wine,,,,,4
+1331,"CABERNET FRANC",cabernet-franc,,,,,14
+1333,TEROLDEGO,teroldego,,,,,4
+1337,LAGREIN,lagrein,,,,,12
+1339,TEMPRANILLO,tempranillo,,,,,6
+1343,"SANGIOVESE (SANGIOVETO)",sangiovese-sangioveto,,,,,6
+1350,TANNAT,tannat,,,,,5
+1353,MOURVEDRE,mourvedre,,,,,4
+1360,"CABERNET PETITE SIRAH",cabernet-petite-sirah,,,,,4
+1362,"CABERNET MALBEC",cabernet-malbec,,,,,4
+1394,"MIXED RED WINE",mixed-red-wine,,,,,7
+1397,"PRIMATIVO ZINFANDEL",primativo-zinfandel,,,,,6
+1399,"SPANISH RED",spanish-red,,,,,1
+1423,BLANK,blank,,,,,1
+1435,"MUSCAT CANELLI (BLANC)",muscat-canelli-blanc,,,,,2
+1443,DOLCETTO,dolcetto,,,,,1
+1450,"BLACKBERRY RED BLEND",blackberry-red-blend,,,,,1
+1452,"CARAMEL APPLE WHITE BLEND",caramel-apple-white-blend,,,,,5
+1454,"CHERRY RED BLEND",cherry-red-blend,,,,,1
+1456,"PEACH WHITE BLEND",peach-white-blend,,,,,6
+1458,"STRAWBERRY ROSE",strawberry-rose,,,,,8
+1460,"TROPICAL WHITE BLEND",tropical-white-blend,,,,,6
+1462,"GEWURZTRAMINER (TRAMINER)",gewurztraminer-traminer,,,,,1
+1504,"FRANZIA CAB SAUV BOLD &amp; JAMMY",franzia-cab-sauv-bold-jammy,,,,,1
+1513,"CAVA EXTRA DRY",cava-extra-dry,,,,,2
+1535,"PINEAPPLE GOLD",pineapple-gold,,,,,2
+1544,"TROPICAL MOSCATO",tropical-moscato,,,,,2
+1546,"PEACH MOSCATO",peach-moscato,,,,,13
+1548,"STRAWBERRY MOSCATO",strawberry-moscato,,,,,8
+2982,"WHITE GRENACHE",white-grenache,,,,,
+3021,"HABANERO LIME-ARITA",habanero-lime-arita,,,,,
+3025,COCONUT,coconut,,,,,
+3061,GINGERSNAP,gingersnap,,,,,
+3065,"HARVEST RED",harvest-red,,,,,
+3149,"GREEN APPLE",green-apple,,,,,2
+3153,"MANGO CITRUS",mango-citrus,,,,,
+3159,GRAPEFRUIT,grapefruit,,,,,
+3213,"RED GIFT BASKET",red-gift-basket,,,,,
+3297,GRENACH/SYRAH/MERLOT,grenach-syrah-merlot,,,,,
+3305,"SWEET SHIRAZ",sweet-shiraz,,,,,
+3329,CHIFFON,chiffon,,,,,
+3333,"CNV-VODKA FLAVOR MIXED BERRY",cnv-vodka-flavor-mixed-berry,,,,,
+3359,"SPARKLING PINOT GRIG",sparkling-pinot-grig,,,,,
+3405,"SPARKLED WATERMELON PUNCH",sparkled-watermelon-punch,,,,,
+3423,"PETITE SIRAH/MERLOT",petite-sirah-merlot,,,,,
+3455,CHARD/PIG/PINOT,chard-pig-pinot,,,,,
+3539,"ROASTED OAK BUTTERY CHARDONNAY",roasted-oak-buttery-chardonnay,,,,,4
+3581,"CABERNET PETIT VERDOT",cabernet-petit-verdot,,,,,3
+3635,"BUBBLY ROSE",bubbly-rose,,,,,5
+3639,"BUBBLY BRUT",bubbly-brut,,,,,1
+3649,"PROSECCO ROSE",prosecco-rose,,,,,15
+3847,MANGO,mango,,,,,13
+4006,"MANGO MOSCATO",mango-moscato,,,,,1
+4109,"TROPICAL PINOT GRIGIO",tropical-pinot-grigio,,,,,4
+4113,"WILD BERRY MOSCATO",wild-berry-moscato,,,,,2
+4146,"SWEET STRAWBERRY ROSE",sweet-strawberry-rose,,,,,2
+4150,"SWEET PEACH",sweet-peach,,,,,3
+4190,BRUT,brut,,,,,4
+4244,"WHITE ZINFANDEL CHARDONNAY",white-zinfandel-chardonnay,,,,,7
+4250,"CHENIN BLANC",chenin-blanc,,,,,22
+4324,"RED TABLE WINE",red-table-wine,,,,,28
+4391,"Mango Moscato OTS",mango-moscato-ots,,,,,3
+4394,"Watermelon Moscato OTS",watermelon-moscato-ots,,,,,3
+4454,"MOSCATO RED",moscato-red,,,,,24
+4558,"SMITH RED",smith-red,,,,,2
+4572,"WHITE ZINFANDEL MOSCATO",white-zinfandel-moscato,,,,,24
+4620,"SPICY RED BLEND",spicy-red-blend,,,,,1
+4640,"TEMPRANILLO ROSE",tempranillo-rose,,,,,3
+5004,"SWEETS WATERMALON MOSCATO",sweets-watermalon-moscato,,,,,
+5008,"BERRY MOSCATO",berry-moscato,,,,,2
+5052,"BUTTERY CHARDONNAY",buttery-chardonnay,,,,,2
+5057,"STRAWBERRY ROSE LEMONADE",strawberry-rose-lemonade,,,,,3
+5062,"MOSCATO LEMONADE",moscato-lemonade,,,,,6
+5079,"SWEETS WATERMELON MOSCATO",sweets-watermelon-moscato,,,,,1
+5179,"CHARDONNAY CHAMOMILE TEA",chardonnay-chamomile-tea,,,,,1
+5184,"ROSE HIBISCUS TEA",rose-hibiscus-tea,,,,,1
+5188,"SAUVIGNON BLANC GREEN TEA",sauvignon-blanc-green-tea,,,,,1
+5192,LEMONADE,lemonade,,,,,
+5242,BLUEBERRY,blueberry,,,,,5
+5255,"BLUEBERRY MOSCATO",blueberry-moscato,,,,,2
+5270,"PINEAPPLE MOSCATO",pineapple-moscato,,,,,1
+5328,LIME,lime,,,,,22
+5342,"CLASSIC LIME",classic-lime,,,,,14
+5348,PEACH,peach,,,,,15
+5354,WATERMELON,watermelon,,,,,10
+5374,PALOMA,paloma,,,,,7
+5390,"PINEAPPLE JALAPENO",pineapple-jalapeno,,,,,3
+5394,"SPICED CRANBERRY",spiced-cranberry,,,,,2
+5506,"PINA COLADA",pina-colada,,,,,2
+5512,"BLOOD ORANGE HIBISCUS",blood-orange-hibiscus,,,,,2
+5518,"PINK LEMONADE",pink-lemonade,,,,,1
+5560,"CHOCOLATE MARTINI",chocolate-martini,,,,,2
+5564,"CUCUMBER LIME",cucumber-lime,,,,,1
+5592,HORCHATA,horchata,,,,,1
+5608,"PRICKLY PEAR HIBISCUS",prickly-pear-hibiscus,,,,,1
+5628,"GRENACHE ROSE",grenache-rose,,,,,1
+5646,VARIOUS,various,,,,,2
+5756,"PEACH LEMONADE MOSCATO",peach-lemonade-moscato,,,,,2
+6126,"BRUT ROSE",brut-rose,,,,,1

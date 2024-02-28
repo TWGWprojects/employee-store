@@ -1,0 +1,339 @@
+/*
+Theme Name: Wicky Child
+Theme URI: http://www.wpbingosite.com/wicky
+Author: wpbingo
+Description: This is a child theme for Wicky
+Version: 1.0
+Author URI: http://wpbingosite.com
+Template: wicky
+Text Domain: wicky-child
+*/
+/*************** ADD YOUR CUSTOM CSS HERE  ***************/
+
+.text-bullet ul.list-type-parent {list-style-type: none;}
+.bwp-header .wpbingoLogo img{max-height: 60px !important;} 
+h2.sc_section_title.sc_item_title.home-heading{margin-bottom:5px !important;}  
+.home-seeall{margin-bottom:10px;display: block;} 
+.form-group label.lbl{display: block;} 
+.main-archive-product .bwp-top-bar.top{display:none !important;} 
+.main-single-product .entry-summary .social-icon{display:none !important;}
+.woocommerce-Price-amount{display:none !important;}
+.single-product .bwp-single-info .stock.in-stock{display: block !important;color:#77a464;} 
+.wpcf7-acceptance .wpcf7-list-item{margin:0px;}
+input.wpcf7-form-control {
+    color: #ababab;
+}
+li.no-result-item {
+    color: #000000;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{font-family: "Roboto" !important;}
+.products-list.list .product-wapper{margin-bottom: 15px !important;}
+.products-list.grid .product-wapper .products-content{ margin-top: 0px !important;} 
+.products-list.grid .product-wapper .products-content h3.product-title{font-size:12px !important; font-family: "Roboto";}
+.woocommerce-Tabs-panel--additional_information table.woocommerce-product-attributes{
+    border: 1px solid rgba(0,0,0,.1) !important;
+    margin-bottom: 1.618em;
+    width: 75%;
+    margin: 0 auto;
+  }
+  
+  .woocommerce-Tabs-panel--additional_information table.woocommerce-product-attributes tr.woocommerce-product-attributes-item{
+    border-bottom: 2px dotted rgba(0,0,0,.1) !important;
+  }
+  
+  .main-single-product .woocommerce-tabs ul.tabs{
+    margin-bottom: 30px !important;
+  } 
+  .woocommerce-Tabs-panel--additional_information table.woocommerce-product-attributes tr th{
+    font-weight: 500 !important;
+    color: #000 !important;
+    padding: 10px !important;
+    margin: 0 !important;
+    line-height: 1.5 !important;
+    width: 190px !important;
+    border-right: 2px dotted rgba(0,0,0,.1) !important;
+  }
+  .woocommerce-Tabs-panel--additional_information table.woocommerce-product-attributes tr td{
+      padding: 0 !important;
+      border-top: 0 !important;
+      margin: 0;
+      line-height: 1.5;
+  }
+  .woocommerce-Tabs-panel--additional_information table.woocommerce-product-attributes tr td p{
+    margin: 0;
+    padding: 8px 10px;
+  }
+
+  .bapf_sfilter .bapf_head h3{
+    margin-top: 0px;
+  }
+  .products-list.list .product-wapper .products-content .price{margin-bottom: 5px !important;padding-bottom: 15px !important;}
+  .products-list.grid .product-wapper .products-thumb{display: block !important;}
+  .products-list.grid .product-wapper .products-thumb img{margin: 0 auto;} 
+  .customized-desc.item-description{color: #54595F;min-width: 545px;}
+
+  .text-bullet ul.list-type-parent > li:before {
+    content: "\4e";
+    font-family: eleganticons;
+    color: #bd515f;
+    float: left;
+    margin-right: 10px;
+  }
+  
+
+  /* Checkout page design */
+  #customer_details .form-row-first,#customer_details .form-row-last{
+    width: 50%;
+    float: left;
+  }
+  #customer_details .form-row-first .input-text{
+    width: 97%;
+  }
+  .woocommerce-checkout #payment ul.payment_methods{
+    display:none;
+  }
+  p#wpgdprc_field{width: 100%;}
+
+  /* Shipcomplience Popup */
+  #compliance_msg{
+    display: block;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    background: rgba(0, 0, 0, 0.32);
+    width: 100%;
+    height: 100vh;
+    z-index: 1024;
+  }
+
+  #contactdiv, #noaddressdiv {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.69);
+    display: none;
+    overflow: auto;
+    z-index: 9999;
+  }
+ 
+  #logindiv {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.69);
+    display: none;
+    z-index: 99;
+  }
+
+  #contact,#addressdiv {
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+  }
+
+  #login {
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+  }
+
+  #login,
+  #contact, #addressdiv{
+    width: 350px;
+    margin: 0px;
+    background-color: white;
+    position: relative;
+    border: 5px solid #bd515f;
+  }
+  #contactdiv form select{
+    border: 1px solid #ccc;
+    padding: 0px 8px;
+    min-height: 35px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+  }
+  #contactdiv form{
+    border-radius: 2px;
+    padding: 20px 30px;
+    box-shadow: 0 0 15px;
+    font-size: 14px;
+    font-weight: bold;
+  }
+
+  #procced_now{
+    display: inline-block;
+    text-align: center;
+    color: #fff;
+    background: #bd515f;
+    height: 40px;
+    line-height: 38px;
+    padding: 0 20px;
+    font-weight: 400;
+    position: relative;
+    text-transform: uppercase;
+    border: 1px solid #bd515f;
+    clear: both;
+    margin-right: 20px;
+    overflow: hidden;
+    font-size: 14px;
+    z-index: 1;
+    cursor: pointer;
+  }
+
+  /* Question Popup */
+.question_wrap{
+	position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 25px;
+    height: 25px;
+    padding: 0px;
+    display: block;
+    border: 1px solid rgb(221, 221, 221);
+}
+.question_wrap .question_close{
+	display: block;
+    font-size: 1.25em;
+    line-height: 1em;
+    width: 1em;
+    height: 1em;
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin: 2px;
+    text-align: center;
+    color: rgb(204, 204, 204);
+    border: 2px solid rgb(235, 235, 235);
+    background-color: rgb(244, 247, 249);
+    cursor: pointer;
+}
+.vc_custom_1444739691792.scheme_dark,
+.menu_main_info {
+    display: none;
+}
+
+.top_panel_inner_style_5 .top_panel_top{
+  display: block !important;
+}
+.home .woocommerce ul.products li.product .button{
+  display: block;
+}
+/* Sample store page box design */
+.blog-box {
+  background: #fff;
+  margin-bottom: 20px;
+  padding: 20px;
+  box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.07);
+}
+li#menu-item-11280{
+  background: #c7dfbced
+}
+/* customm css*/
+.top_panel_wrap .sidebar_cart{
+  padding: 1em !important;
+  max-height: 600px;
+  overflow-y: scroll;
+}
+.top_panel_wrap .widget_shopping_cart ul.cart_list > li img{
+  width: 60px !important;
+}
+p.woocommerce-mini-cart__buttons.buttons a{
+  font-size: 9px;
+}
+.woocommerce-page div.product form.cart div.quantity input.qty {
+  margin: 0;
+  min-height: 43px;
+}
+
+
+/* compliance_msg */
+div#compliance_msg {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  background: rgba(0, 0, 0, 0.32);
+  width: 100%;
+  height: 100vh;
+  z-index: 1024;
+}
+div#compliance_msg .no-address__title {
+  font-size: inherit;
+  color: inherit;
+  border-bottom: 1px solid #f1ecec;
+  padding-bottom: 15px;
+}
+div#compliance_msg #addressdiv {
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  max-height: calc(100vh - 80px);
+  overflow: auto;
+  max-width: 800px;
+}
+
+body.search-results .bwp-sidebar{display:none;}
+
+@media only screen and (max-width:991px){
+
+div#compliance_msg #addressdiv {
+  max-width: 580px;
+}
+.customized-desc.item-description{
+  min-width: auto;
+}
+}
+
+@media only screen and (max-width:575px){
+
+div#compliance_msg #addressdiv {
+  max-width: 75%;
+}
+}
+
+div#loader {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.5);
+  left: 0px;
+  top: 0px;
+}
+.page-template-edit_address_template .itemscope.post_item.post_item_single.post_featured_default.post_format_standard.club_list{
+margin:0px;
+}
+
+
+/* payment methods hide */
+.woocommerce-checkout #payment ul.payment_methods {
+  border-bottom: 1px solid #DFDDD6;
+  display: none;
+}
+
+
+.form {
+  border-radius: 2px;
+  padding: 20px 30px;
+  box-shadow: 0 0 15px;
+  font-size: 14px;
+  font-weight: bold;
+  float: left;
+}
+
+
+
+.processing .blockOverlay {
+  background-image:url('http://localhost/sample-store-new/wp-content/themes/wicky-child/loading-png-gif.gif') !important;
+  background-position: center 50px !important;
+  background-repeat: no-repeat !important;
+}
+

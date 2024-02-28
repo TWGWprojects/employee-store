@@ -1,0 +1,12 @@
+/* Revolution Slider ---------------------------------------------------------*/
+.rev_slider_wrapper{
+	.rev-btn{
+		@include transition(all 0.2s ease !important);
+	}
+	.font-1{
+		font-family: $font-family-monospace;
+	}
+	.style-1{
+		opacity: 0.21 !important;
+	}
+}

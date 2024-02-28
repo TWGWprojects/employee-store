@@ -1,0 +1,62 @@
+[07:42:16] <strong>Record</strong> #1
+[07:42:16] taxonomy #5263 Successfully Imported
+[07:42:16] <strong>Record</strong> #2
+[07:42:16] taxonomy #5264 Successfully Imported
+[07:42:16] <strong>Record</strong> #3
+[07:42:16] taxonomy #5265 Successfully Imported
+[07:42:16] <strong>Record</strong> #4
+[07:42:16] taxonomy #5266 Successfully Imported
+[07:42:16] <strong>Record</strong> #5
+[07:42:16] taxonomy #5267 Successfully Imported
+[07:42:16] <strong>Record</strong> #6
+[07:42:16] taxonomy #5268 Successfully Imported
+[07:42:16] <strong>Record</strong> #7
+[07:42:16] taxonomy #5269 Successfully Imported
+[07:42:16] <strong>Record</strong> #8
+[07:42:16] taxonomy #5270 Successfully Imported
+[07:42:16] <strong>Record</strong> #9
+[07:42:16] taxonomy #5271 Successfully Imported
+[07:42:16] <strong>Record</strong> #10
+[07:42:16] taxonomy #5272 Successfully Imported
+[07:42:16] <strong>Record</strong> #11
+[07:42:16] taxonomy #5273 Successfully Imported
+[07:42:16] <strong>Record</strong> #12
+[07:42:16] taxonomy #5274 Successfully Imported
+[07:42:16] <strong>Record</strong> #13
+[07:42:16] taxonomy #5275 Successfully Imported
+[07:42:16] <strong>Record</strong> #14
+[07:42:16] taxonomy #5276 Successfully Imported
+[07:42:16] <strong>Record</strong> #15
+[07:42:16] taxonomy #5277 Successfully Imported
+[07:42:16] <strong>Record</strong> #16
+[07:42:16] taxonomy #5278 Successfully Imported
+[07:42:16] <strong>Record</strong> #17
+[07:42:16] taxonomy #5279 Successfully Imported
+[07:42:16] <strong>Record</strong> #18
+[07:42:16] taxonomy #5280 Successfully Imported
+[07:42:16] <strong>Record</strong> #19
+[07:42:16] taxonomy #5281 Successfully Imported
+[07:42:16] <strong>Record</strong> #20
+[07:42:16] taxonomy #5282 Successfully Imported
+[07:42:17] <strong>Record</strong> #21
+[07:42:17] taxonomy #5283 Successfully Imported
+[07:42:17] <strong>Record</strong> #22
+[07:42:17] taxonomy #5284 Successfully Imported
+[07:42:17] <strong>Record</strong> #23
+[07:42:17] taxonomy #5285 Successfully Imported
+[07:42:17] <strong>Record</strong> #24
+[07:42:17] taxonomy #5286 Successfully Imported
+[07:42:17] <strong>Record</strong> #25
+[07:42:17] taxonomy #5287 Successfully Imported
+[07:42:17] <strong>Record</strong> #26
+[07:42:17] taxonomy #5288 Successfully Imported
+[07:42:17] <strong>Record</strong> #27
+[07:42:17] taxonomy #5289 Successfully Imported
+[07:42:17] <strong>Record</strong> #28
+[07:42:17] taxonomy #5290 Successfully Imported
+[07:42:17] <strong>Record</strong> #29
+[07:42:17] taxonomy #5291 Successfully Imported
+[07:42:17] <strong>Record</strong> #30
+[07:42:17] taxonomy #5292 Successfully Imported
+[07:42:17] <strong>Record</strong> #31
+[07:42:17] taxonomy #5293 Successfully Imported

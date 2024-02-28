@@ -1,0 +1,61 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+    <env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:ns2="http://oracle.e1.bssv.JP420000/">
+    <env:Header><ns1:Security><ns1:UsernameToken><ns1:Username>GTEN</ns1:Username><ns1:Password>ripon</ns1:Password></ns1:UsernameToken></ns1:Security>
+    </env:Header>   <env:Body>
+    <ns2:processSalesOrderV4>
+    <header>
+    <businessUnit>17</businessUnit>
+    <customerPO>1234567890</customerPO>
+    <detail>
+            <businessUnit>03</businessUnit>
+            <processing>
+                <actionType>A</actionType>
+            </processing>
+            <product>
+                <item>
+            <itemProduct>P12104-05</itemProduct>
+                </item>
+            </product>
+            <quantityOrdered>1</quantityOrdered>
+            <unitOfMeasureCodeTransaction>EA</unitOfMeasureCodeTransaction>
+            <reference>235242</reference>
+    </detail>
+    <orderTakenBy>WEBSAMPLE</orderTakenBy>
+    <orderedBy>Dhi Su</orderedBy>
+    <processing>
+        <actionType>A</actionType>
+        <processingVersion>TWG420023</processingVersion>
+    </processing>
+    <attachmentText>test</attachmentText>
+    <dateRequested>01/01/2024</dateRequested>
+    <shipTo>
+        <mailingName>dhiraj</mailingName>
+        <addressLine1>Flat 13, 12/F</addressLine1>
+        <addressLine2></addressLine2>
+        <addressLine4>04049379801</addressLine4>
+        <city>tracy</city>
+        <countryCode>HK</countryCode>
+        <countyCode>HK</countyCode>
+        <customer>
+            <entityId></entityId>
+        </customer>
+        <postalCode></postalCode>
+        <stateCode></stateCode>
+    </shipTo>
+    <soldTo>
+        <mailingName>dhiraj</mailingName>
+        <addressLine1>Flat 13, 12/F</addressLine1>
+        <addressLine2></addressLine2>
+        <addressLine4>04049379801</addressLine4>
+        <city>tracy</city>
+        <countryCode>HK</countryCode>
+        <countyCode>HK</countyCode>
+        <customer>
+            <entityId>510674</entityId>
+        </customer>
+        <postalCode></postalCode>
+        <stateCode></stateCode>
+    </soldTo >
+    </header>
+    </ns2:processSalesOrderV4>
+    </env:Body></env:Envelope>

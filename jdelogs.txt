@@ -1,0 +1,509 @@
+<?xml version = "1.0" encoding = "UTF-8"?><env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:ns2="http://oracle.e1.bssv.JP420000/"><env:Header><ns1:Security><ns1:UsernameToken><ns1:Username>WPSTORES</ns1:Username><ns1:Password>tracyripon</ns1:Password></ns1:UsernameToken></ns1:Security></env:Header>   <env:Body>
+    <ns2:processSalesOrderV4>
+    <header>
+    <businessUnit>17</businessUnit>
+    <customerPO></customerPO>
+        <detail>
+            <businessUnit>03</businessUnit>
+            <processing>
+                <actionType>A</actionType>
+            </processing>
+            <product>
+                <item>
+            <itemProduct>P12104-05</itemProduct>
+                </item>
+            </product>
+            <quantityOrdered>1</quantityOrdered>
+            <unitOfMeasureCodeTransaction>EA</unitOfMeasureCodeTransaction>
+            <reference>10888</reference>
+        </detail><orderTakenBy>WEBSAMPLE</orderTakenBy>
+    <orderedBy>Dhiraj S </orderedBy>
+    <processing>
+        <actionType>A</actionType>
+        <processingVersion>TWG420025</processingVersion>
+    </processing>
+    <attachmentText></attachmentText>
+    <dateRequested>2023-12-25T00:00:00</dateRequested>
+    <shipTo>
+        <mailingName>Dhiraj Suthar</mailingName>
+        <addressLine1>Juichiya</addressLine1>
+        <addressLine2></addressLine2>
+        <addressLine4>8140-634-4084</addressLine4>
+        <city>Minato-ku Nagoya-shi</city>
+        <countryCode>JP</countryCode>
+        <countyCode>JP</countyCode>
+        <customer>
+            <entityId>512443</entityId>
+        </customer>
+        <postalCode>271-1299</postalCode>
+        <stateCode>J02</stateCode>
+    </shipTo><soldTo>
+        <mailingName>Dhiraj Suthar</mailingName>
+        <addressLine1>Juichiya</addressLine1>
+        <addressLine2></addressLine2>
+        <addressLine4>8140-634-4084</addressLine4>
+        <city>Minato-ku Nagoya-shi</city>
+        <countryCode>JP</countryCode>
+        <countyCode>JP</countyCode>
+        <customer>
+            <entityId>510674</entityId>
+        </customer>
+        <postalCode>271-1299</postalCode>
+        <stateCode>J02</stateCode>
+    </soldTo ></header>
+    </ns2:processSalesOrderV4>
+    </env:Body></env:Envelope>
+==============
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns0:Fault xmlns:ns0="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://www.w3.org/2003/05/soap-envelope"><faultcode>ns0:Server</faultcode><faultstring>&#xd;
+B4204200 ProcessSOHeader::Cause. . . . . The Customer Master file (F0301) for the Sold-to Address Number&#xd;
+               requires the Customer Order Number to be entered.&#xd;
+Resolution . . Enter a Customer Order Number.&#xd;
+&#xd;
+</faultstring><detail><ns0:BusinessServiceException xmlns:ns0="http://oracle.e1.bssv.JP420000/">&#xd;
+B4204200 ProcessSOHeader::Cause. . . . . The Customer Master file (F0301) for the Sold-to Address Number&#xd;
+               requires the Customer Order Number to be entered.&#xd;
+Resolution . . Enter a Customer Order Number.&#xd;
+&#xd;
+</ns0:BusinessServiceException></detail></ns0:Fault></S:Body></S:Envelope>
+***************
+<?xml version = "1.0" encoding = "UTF-8"?><env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:ns2="http://oracle.e1.bssv.JP420000/"><env:Header><ns1:Security><ns1:UsernameToken><ns1:Username>WPSTORES</ns1:Username><ns1:Password>tracyripon</ns1:Password></ns1:UsernameToken></ns1:Security></env:Header>   <env:Body>
+    <ns2:processSalesOrderV4>
+    <header>
+    <businessUnit>17</businessUnit>
+    <customerPO>23243422421</customerPO>
+        <detail>
+            <businessUnit>03</businessUnit>
+            <processing>
+                <actionType>A</actionType>
+            </processing>
+            <product>
+                <item>
+            <itemProduct>P12410-09</itemProduct>
+                </item>
+            </product>
+            <quantityOrdered>1</quantityOrdered>
+            <unitOfMeasureCodeTransaction>EA</unitOfMeasureCodeTransaction>
+            <reference>61906</reference>
+        </detail><orderTakenBy>WEBSAMPLE</orderTakenBy>
+    <orderedBy>Dhiraj T T</orderedBy>
+    <processing>
+        <actionType>A</actionType>
+        <processingVersion>TWG420023</processingVersion>
+    </processing>
+    <attachmentText></attachmentText>
+    <dateRequested>2024-01-24T00:00:00</dateRequested>
+    <shipTo>
+        <mailingName>Dhiraj Test</mailingName>
+        <addressLine1>4596 S Tracy Blvd</addressLine1>
+        <addressLine2></addressLine2>
+        <addressLine4>2558 8533</addressLine4>
+        <city>tracy</city>
+        <countryCode>US</countryCode>
+        <countyCode>US</countyCode>
+        <customer>
+            <entityId>512444</entityId>
+        </customer>
+        <postalCode>95377</postalCode>
+        <stateCode>CA</stateCode>
+    </shipTo><soldTo>
+        <mailingName>Dhiraj Test</mailingName>
+        <addressLine1>4596 S Tracy Blvd</addressLine1>
+        <addressLine2></addressLine2>
+        <addressLine4>2558 8533</addressLine4>
+        <city>tracy</city>
+        <countryCode>US</countryCode>
+        <countyCode>US</countyCode>
+        <customer>
+            <entityId>510674</entityId>
+        </customer>
+        <postalCode>95377</postalCode>
+        <stateCode>CA</stateCode>
+    </soldTo ></header>
+    </ns2:processSalesOrderV4>
+    </env:Body></env:Envelope>
+==============
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><S:Body><ns0:processSalesOrderV4Response xmlns:ns0="http://oracle.e1.bssv.JP420000/"><e1MessageList><e1Messages><message>Cause. . . . . The Customer Order Number that has been entered has&#xd;
+               also been entered on another order.&#xd;
+Resolution . . This is a warning only.&#xd;
+               Verify that in fact this order has not already been&#xd;
+               entered into the system or hit enter to continue.&#xd;
+</message><messagePrefix>B4204200 ProcessSOHeader:</messagePrefix></e1Messages></e1MessageList><header><actionType>A</actionType><amountTotalOrderDomestic>0</amountTotalOrderDomestic><amountTotalOrderForeign>0</amountTotalOrderForeign><attachmentText></attachmentText><businessUnit>          17</businessUnit><customerPO>23243422421</customerPO><dates><orderDate>2024-01-16T00:00:00-08:00</orderDate></dates><delivery><carrier/></delivery><detail><dates/><delivery><carrier/></delivery><documentLineNumber>0</documentLineNumber><financial><priceExtendedDomestic>0</priceExtendedDomestic><priceExtendedForeign>0</priceExtendedForeign><priceUnitDomestic>0</priceUnitDomestic><priceUnitForeign>0</priceUnitForeign><unitOfMeasureCodePricing>CA</unitOfMeasureCodePricing></financial><product><item><itemCatalog>P12410-09                </itemCatalog><itemId>2300998</itemId><itemProduct>P12410-09</itemProduct></item><lineTypeCode>S</lineTypeCode><lotNumber>                              </lotNumber><statusCodeLast>520</statusCodeLast><statusCodeNext>544</statusCodeNext></product><quantity><quantityBackOrdered>0</quantityBackOrdered><quantityCanceled>0</quantityCanceled><quantityOrdered>1</quantityOrdered><quantityShippable>1</quantityShippable><unitOfMeasureCodeTransaction>EA</unitOfMeasureCodeTransaction></quantity><shipTo><entityId>512444</entityId></shipTo></detail><financial><currencyCode>USD</currencyCode><paymentTerms>   </paymentTerms></financial><holdOrderCode>  </holdOrderCode><salesOrderKey><documentCompany>01700</documentCompany><documentNumber>457363</documentNumber><documentTypeCode>SA</documentTypeCode></salesOrderKey><shipTo><addressLine1>4596 S Tracy Blvd</addressLine1><addressLine2></addressLine2><addressLine3></addressLine3><addressLine4>2558 8533</addressLine4><city>tracy</city><countryCode>US</countryCode><countyCode>US</countyCode><customer><entityId>512444</entityId><entityLongId>                    </entityLongId><entityTaxId>                    </entityTaxId></customer><mailingName>Dhiraj Test</mailingName><postalCode>95377</postalCode><stateCode>CA</stateCode></shipTo></header></ns0:processSalesOrderV4Response></S:Body></S:Envelope>
+***************
+<?xml version = "1.0" encoding = "UTF-8"?><env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:ns2="http://oracle.e1.bssv.JP420000/"><env:Header><ns1:Security><ns1:UsernameToken><ns1:Username>WPSTORES</ns1:Username><ns1:Password>tracyripon</ns1:Password></ns1:UsernameToken></ns1:Security></env:Header>   <env:Body>
+    <ns2:processSalesOrderV4>
+    <header>
+    <businessUnit>17</businessUnit>
+    <customerPO>23243422421</customerPO>
+        <detail>
+            <businessUnit>03</businessUnit>
+            <processing>
+                <actionType>A</actionType>
+            </processing>
+            <product>
+                <item>
+            <itemProduct>P12435-03</itemProduct>
+                </item>
+            </product>
+            <quantityOrdered>1</quantityOrdered>
+            <unitOfMeasureCodeTransaction>EA</unitOfMeasureCodeTransaction>
+            <reference>61917</reference>
+        </detail><orderTakenBy>WEBSAMPLE</orderTakenBy>
+    <orderedBy>Dhiraj T T</orderedBy>
+    <processing>
+        <actionType>A</actionType>
+        <processingVersion>TWG420025</processingVersion>
+    </processing>
+    <attachmentText></attachmentText>
+    <dateRequested>2024-01-24T00:00:00</dateRequested>
+    <shipTo>
+        <mailingName>Dhiraj Test</mailingName>
+        <addressLine1>Kailey Ind Centre</addressLine1>
+        <addressLine2></addressLine2>
+        <addressLine4>2558 8533</addressLine4>
+        <city>Chai Wan</city>
+        <countryCode>HK</countryCode>
+        <countyCode>HK</countyCode>
+        <customer>
+            <entityId>512443</entityId>
+        </customer>
+        <postalCode>12345</postalCode>
+        <stateCode>H1</stateCode>
+    </shipTo><soldTo>
+        <mailingName>Dhiraj Test</mailingName>
+        <addressLine1>Kailey Ind Centre</addressLine1>
+        <addressLine2></addressLine2>
+        <addressLine4>2558 8533</addressLine4>
+        <city>Chai Wan</city>
+        <countryCode>HK</countryCode>
+        <countyCode>HK</countyCode>
+        <customer>
+            <entityId>510674</entityId>
+        </customer>
+        <postalCode>12345</postalCode>
+        <stateCode>H1</stateCode>
+    </soldTo ></header>
+    </ns2:processSalesOrderV4>
+    </env:Body></env:Envelope>
+==============
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><S:Body><ns0:processSalesOrderV4Response xmlns:ns0="http://oracle.e1.bssv.JP420000/"><e1MessageList><e1Messages><message>Cause. . . . . The Customer Order Number that has been entered has&#xd;
+               also been entered on another order.&#xd;
+Resolution . . This is a warning only.&#xd;
+               Verify that in fact this order has not already been&#xd;
+               entered into the system or hit enter to continue.&#xd;
+</message><messagePrefix>B4204200 ProcessSOHeader:</messagePrefix></e1Messages></e1MessageList><header><actionType>A</actionType><amountTotalOrderDomestic>0</amountTotalOrderDomestic><amountTotalOrderForeign>0</amountTotalOrderForeign><attachmentText></attachmentText><businessUnit>          17</businessUnit><customerPO>23243422421</customerPO><dates><orderDate>2024-01-17T00:00:00-08:00</orderDate></dates><delivery><carrier/></delivery><detail><dates/><delivery><carrier/></delivery><documentLineNumber>0</documentLineNumber><financial><priceExtendedDomestic>0</priceExtendedDomestic><priceExtendedForeign>0</priceExtendedForeign><priceUnitDomestic>0</priceUnitDomestic><priceUnitForeign>0</priceUnitForeign><unitOfMeasureCodePricing>CA</unitOfMeasureCodePricing></financial><product><item><itemCatalog>8033678                  </itemCatalog><itemId>2289194</itemId><itemProduct>P12435-03</itemProduct></item><lineTypeCode>S</lineTypeCode><lotNumber>                              </lotNumber><statusCodeLast>520</statusCodeLast><statusCodeNext>546</statusCodeNext></product><quantity><quantityBackOrdered>0</quantityBackOrdered><quantityCanceled>0</quantityCanceled><quantityOrdered>1</quantityOrdered><quantityShippable>1</quantityShippable><unitOfMeasureCodeTransaction>EA</unitOfMeasureCodeTransaction></quantity><shipTo><entityId>512443</entityId></shipTo></detail><financial><currencyCode>USD</currencyCode><paymentTerms>   </paymentTerms></financial><holdOrderCode>  </holdOrderCode><salesOrderKey><documentCompany>01700</documentCompany><documentNumber>457612</documentNumber><documentTypeCode>SJ</documentTypeCode></salesOrderKey><shipTo><addressLine1>Kailey Ind Centre</addressLine1><addressLine2></addressLine2><addressLine3></addressLine3><addressLine4>2558 8533</addressLine4><city>Chai Wan</city><countryCode>HK</countryCode><countyCode>HK</countyCode><customer><entityId>512443</entityId><entityLongId>512443              </entityLongId><entityTaxId>                    </entityTaxId></customer><mailingName>Dhiraj Test</mailingName><postalCode>12345</postalCode><stateCode>H1</stateCode></shipTo></header></ns0:processSalesOrderV4Response></S:Body></S:Envelope>
+***************
+<?xml version = "1.0" encoding = "UTF-8"?><env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:ns2="http://oracle.e1.bssv.JP420000/"><env:Header><ns1:Security><ns1:UsernameToken><ns1:Username>WPSTORES</ns1:Username><ns1:Password>tracyripon</ns1:Password></ns1:UsernameToken></ns1:Security></env:Header>   <env:Body>
+    <ns2:processSalesOrderV4>
+    <header>
+    <businessUnit>17</businessUnit>
+    <customerPO>23243422421</customerPO>
+        <detail>
+            <businessUnit>03</businessUnit>
+            <processing>
+                <actionType>A</actionType>
+            </processing>
+            <product>
+                <item>
+            <itemProduct>P12461-06</itemProduct>
+                </item>
+            </product>
+            <quantityOrdered>1</quantityOrdered>
+            <unitOfMeasureCodeTransaction>EA</unitOfMeasureCodeTransaction>
+            <reference>61918</reference>
+        </detail><orderTakenBy>WEBSAMPLE</orderTakenBy>
+    <orderedBy>Sudhir K K</orderedBy>
+    <processing>
+        <actionType>A</actionType>
+        <processingVersion>TWG420023</processingVersion>
+    </processing>
+    <attachmentText>TEST ORDER DO NOT SHIP</attachmentText>
+    <dateRequested>2024-01-24T00:00:00</dateRequested>
+    <shipTo>
+        <mailingName>Sudhir Kumar</mailingName>
+        <addressLine1>4596 tesla road</addressLine1>
+        <addressLine2></addressLine2>
+        <addressLine4>2558 8533</addressLine4>
+        <city>Livermore</city>
+        <countryCode>US</countryCode>
+        <countyCode>US</countyCode>
+        <customer>
+            <entityId>512444</entityId>
+        </customer>
+        <postalCode>94550</postalCode>
+        <stateCode>CA</stateCode>
+    </shipTo><soldTo>
+        <mailingName>Sudhir Kumar</mailingName>
+        <addressLine1>4596 tesla road</addressLine1>
+        <addressLine2></addressLine2>
+        <addressLine4>2558 8533</addressLine4>
+        <city>Livermore</city>
+        <countryCode>US</countryCode>
+        <countyCode>US</countyCode>
+        <customer>
+            <entityId>510674</entityId>
+        </customer>
+        <postalCode>94550</postalCode>
+        <stateCode>CA</stateCode>
+    </soldTo ></header>
+    </ns2:processSalesOrderV4>
+    </env:Body></env:Envelope>
+==============
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><S:Body><ns0:processSalesOrderV4Response xmlns:ns0="http://oracle.e1.bssv.JP420000/"><e1MessageList><e1Messages><message>Cause. . . . . The Customer Order Number that has been entered has&#xd;
+               also been entered on another order.&#xd;
+Resolution . . This is a warning only.&#xd;
+               Verify that in fact this order has not already been&#xd;
+               entered into the system or hit enter to continue.&#xd;
+</message><messagePrefix>B4204200 ProcessSOHeader:</messagePrefix></e1Messages></e1MessageList><header><actionType>A</actionType><amountTotalOrderDomestic>0</amountTotalOrderDomestic><amountTotalOrderForeign>0</amountTotalOrderForeign><attachmentText>TEST ORDER DO NOT SHIP</attachmentText><businessUnit>          17</businessUnit><customerPO>23243422421</customerPO><dates><orderDate>2024-01-17T00:00:00-08:00</orderDate></dates><delivery><carrier/></delivery><detail><dates/><delivery><carrier/></delivery><documentLineNumber>0</documentLineNumber><financial><priceExtendedDomestic>0</priceExtendedDomestic><priceExtendedForeign>0</priceExtendedForeign><priceUnitDomestic>0</priceUnitDomestic><priceUnitForeign>0</priceUnitForeign><unitOfMeasureCodePricing>CA</unitOfMeasureCodePricing></financial><product><item><itemCatalog>P12461-06                </itemCatalog><itemId>2302133</itemId><itemProduct>P12461-06</itemProduct></item><lineTypeCode>S</lineTypeCode><lotNumber>                              </lotNumber><statusCodeLast>520</statusCodeLast><statusCodeNext>544</statusCodeNext></product><quantity><quantityBackOrdered>0</quantityBackOrdered><quantityCanceled>0</quantityCanceled><quantityOrdered>1</quantityOrdered><quantityShippable>1</quantityShippable><unitOfMeasureCodeTransaction>EA</unitOfMeasureCodeTransaction></quantity><shipTo><entityId>512444</entityId></shipTo></detail><financial><currencyCode>USD</currencyCode><paymentTerms>   </paymentTerms></financial><holdOrderCode>  </holdOrderCode><salesOrderKey><documentCompany>01700</documentCompany><documentNumber>457633</documentNumber><documentTypeCode>SA</documentTypeCode></salesOrderKey><shipTo><addressLine1>4596 tesla road</addressLine1><addressLine2></addressLine2><addressLine3></addressLine3><addressLine4>2558 8533</addressLine4><city>Livermore</city><countryCode>US</countryCode><countyCode>US</countyCode><customer><entityId>512444</entityId><entityLongId>                    </entityLongId><entityTaxId>                    </entityTaxId></customer><mailingName>Sudhir Kumar</mailingName><postalCode>94550</postalCode><stateCode>CA</stateCode></shipTo></header></ns0:processSalesOrderV4Response></S:Body></S:Envelope>
+***************
+<?xml version = "1.0" encoding = "UTF-8"?><env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:ns2="http://oracle.e1.bssv.JP420000/"><env:Header><ns1:Security><ns1:UsernameToken><ns1:Username>WPSTORES</ns1:Username><ns1:Password>tracyripon</ns1:Password></ns1:UsernameToken></ns1:Security></env:Header>   <env:Body>
+    <ns2:processSalesOrderV4>
+    <header>
+    <businessUnit>17</businessUnit>
+    <customerPO>23243422421</customerPO>
+        <detail>
+            <businessUnit>03</businessUnit>
+            <processing>
+                <actionType>A</actionType>
+            </processing>
+            <product>
+                <item>
+            <itemProduct>P13090-01</itemProduct>
+                </item>
+            </product>
+            <quantityOrdered>1</quantityOrdered>
+            <unitOfMeasureCodeTransaction>EA</unitOfMeasureCodeTransaction>
+            <reference>61975</reference>
+        </detail><orderTakenBy>WEBSAMPLE</orderTakenBy>
+    <orderedBy>Dhiraj S S</orderedBy>
+    <processing>
+        <actionType>A</actionType>
+        <processingVersion>TWG420023</processingVersion>
+    </processing>
+    <attachmentText></attachmentText>
+    <dateRequested>2024-03-05T00:00:00</dateRequested>
+    <shipTo>
+        <mailingName>Dhiraj Suthar</mailingName>
+        <addressLine1>4596 S Tracy Blvd</addressLine1>
+        <addressLine2></addressLine2>
+        <addressLine4>04049379801</addressLine4>
+        <city>tracy</city>
+        <countryCode>US</countryCode>
+        <countyCode>US</countyCode>
+        <customer>
+            <entityId>512444</entityId>
+        </customer>
+        <postalCode>95377</postalCode>
+        <stateCode>CA</stateCode>
+    </shipTo><soldTo>
+        <mailingName>Dhiraj Suthar</mailingName>
+        <addressLine1>4596 S Tracy Blvd</addressLine1>
+        <addressLine2></addressLine2>
+        <addressLine4>04049379801</addressLine4>
+        <city>tracy</city>
+        <countryCode>US</countryCode>
+        <countyCode>US</countyCode>
+        <customer>
+            <entityId>510674</entityId>
+        </customer>
+        <postalCode>95377</postalCode>
+        <stateCode>CA</stateCode>
+    </soldTo ></header>
+    </ns2:processSalesOrderV4>
+    </env:Body></env:Envelope>
+==============
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><S:Body><ns0:processSalesOrderV4Response xmlns:ns0="http://oracle.e1.bssv.JP420000/"><e1MessageList><e1Messages><message>Cause. . . . . The Customer Order Number that has been entered has&#xd;
+               also been entered on another order.&#xd;
+Resolution . . This is a warning only.&#xd;
+               Verify that in fact this order has not already been&#xd;
+               entered into the system or hit enter to continue.&#xd;
+</message><messagePrefix>B4204200 ProcessSOHeader:</messagePrefix></e1Messages></e1MessageList><header><actionType>A</actionType><amountTotalOrderDomestic>0</amountTotalOrderDomestic><amountTotalOrderForeign>0</amountTotalOrderForeign><attachmentText></attachmentText><businessUnit>          17</businessUnit><customerPO>23243422421</customerPO><dates><orderDate>2024-02-27T00:00:00-08:00</orderDate></dates><delivery><carrier/></delivery><detail><dates/><delivery><carrier/></delivery><documentLineNumber>0</documentLineNumber><financial><priceExtendedDomestic>0</priceExtendedDomestic><priceExtendedForeign>0</priceExtendedForeign><priceUnitDomestic>0</priceUnitDomestic><priceUnitForeign>0</priceUnitForeign><unitOfMeasureCodePricing>CA</unitOfMeasureCodePricing></financial><product><item><itemCatalog>P13090-01                </itemCatalog><itemId>2721881</itemId><itemProduct>P13090-01</itemProduct></item><lineTypeCode>S</lineTypeCode><lotNumber>                              </lotNumber><statusCodeLast>520</statusCodeLast><statusCodeNext>544</statusCodeNext></product><quantity><quantityBackOrdered>0</quantityBackOrdered><quantityCanceled>0</quantityCanceled><quantityOrdered>1</quantityOrdered><quantityShippable>1</quantityShippable><unitOfMeasureCodeTransaction>EA</unitOfMeasureCodeTransaction></quantity><shipTo><entityId>512444</entityId></shipTo></detail><financial><currencyCode>USD</currencyCode><paymentTerms>   </paymentTerms></financial><holdOrderCode>  </holdOrderCode><salesOrderKey><documentCompany>01700</documentCompany><documentNumber>463671</documentNumber><documentTypeCode>SA</documentTypeCode></salesOrderKey><shipTo><addressLine1>4596 S Tracy Blvd</addressLine1><addressLine2></addressLine2><addressLine3></addressLine3><addressLine4>04049379801</addressLine4><city>tracy</city><countryCode>US</countryCode><countyCode>US</countyCode><customer><entityId>512444</entityId><entityLongId>                    </entityLongId><entityTaxId>                    </entityTaxId></customer><mailingName>Dhiraj Suthar</mailingName><postalCode>95377</postalCode><stateCode>CA</stateCode></shipTo></header></ns0:processSalesOrderV4Response></S:Body></S:Envelope>
+***************
+<?xml version = "1.0" encoding = "UTF-8"?><env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:ns2="http://oracle.e1.bssv.JP420000/"><env:Header><ns1:Security><ns1:UsernameToken><ns1:Username>WPSTORES</ns1:Username><ns1:Password>tracyripon</ns1:Password></ns1:UsernameToken></ns1:Security></env:Header>   <env:Body>
+    <ns2:processSalesOrderV4>
+    <header>
+    <businessUnit>17</businessUnit>
+    <customerPO>23243422421</customerPO>
+        <detail>
+            <businessUnit>03</businessUnit>
+            <processing>
+                <actionType>A</actionType>
+            </processing>
+            <product>
+                <item>
+            <itemProduct>P12109-05</itemProduct>
+                </item>
+            </product>
+            <quantityOrdered>1</quantityOrdered>
+            <unitOfMeasureCodeTransaction>EA</unitOfMeasureCodeTransaction>
+            <reference>61976</reference>
+        </detail><orderTakenBy>WEBSAMPLE</orderTakenBy>
+    <orderedBy>Dhiraj S S</orderedBy>
+    <processing>
+        <actionType>A</actionType>
+        <processingVersion>TWG420023</processingVersion>
+    </processing>
+    <attachmentText></attachmentText>
+    <dateRequested>2024-03-05T00:00:00</dateRequested>
+    <shipTo>
+        <mailingName>Dhiraj Suthar</mailingName>
+        <addressLine1>4596 S Tracy Blvd</addressLine1>
+        <addressLine2></addressLine2>
+        <addressLine4>04049379801</addressLine4>
+        <city>tracy</city>
+        <countryCode>US</countryCode>
+        <countyCode>US</countyCode>
+        <customer>
+            <entityId>512444</entityId>
+        </customer>
+        <postalCode>95377</postalCode>
+        <stateCode>CA</stateCode>
+    </shipTo><soldTo>
+        <mailingName>Dhiraj Suthar</mailingName>
+        <addressLine1>4596 S Tracy Blvd</addressLine1>
+        <addressLine2></addressLine2>
+        <addressLine4>04049379801</addressLine4>
+        <city>tracy</city>
+        <countryCode>US</countryCode>
+        <countyCode>US</countyCode>
+        <customer>
+            <entityId>510674</entityId>
+        </customer>
+        <postalCode>95377</postalCode>
+        <stateCode>CA</stateCode>
+    </soldTo ></header>
+    </ns2:processSalesOrderV4>
+    </env:Body></env:Envelope>
+==============
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><S:Body><ns0:processSalesOrderV4Response xmlns:ns0="http://oracle.e1.bssv.JP420000/"><e1MessageList><e1Messages><message>Cause. . . . . The Customer Order Number that has been entered has&#xd;
+               also been entered on another order.&#xd;
+Resolution . . This is a warning only.&#xd;
+               Verify that in fact this order has not already been&#xd;
+               entered into the system or hit enter to continue.&#xd;
+</message><messagePrefix>B4204200 ProcessSOHeader:</messagePrefix></e1Messages></e1MessageList><header><actionType>A</actionType><amountTotalOrderDomestic>0</amountTotalOrderDomestic><amountTotalOrderForeign>0</amountTotalOrderForeign><attachmentText></attachmentText><businessUnit>          17</businessUnit><customerPO>23243422421</customerPO><dates><orderDate>2024-02-27T00:00:00-08:00</orderDate></dates><delivery><carrier/></delivery><detail><dates/><delivery><carrier/></delivery><documentLineNumber>0</documentLineNumber><financial><priceExtendedDomestic>0</priceExtendedDomestic><priceExtendedForeign>0</priceExtendedForeign><priceUnitDomestic>0</priceUnitDomestic><priceUnitForeign>0</priceUnitForeign><unitOfMeasureCodePricing>CA</unitOfMeasureCodePricing></financial><product><item><itemCatalog>P12109-05                </itemCatalog><itemId>2750585</itemId><itemProduct>P12109-05</itemProduct></item><lineTypeCode>S</lineTypeCode><lotNumber>                              </lotNumber><statusCodeLast>520</statusCodeLast><statusCodeNext>544</statusCodeNext></product><quantity><quantityBackOrdered>0</quantityBackOrdered><quantityCanceled>0</quantityCanceled><quantityOrdered>1</quantityOrdered><quantityShippable>1</quantityShippable><unitOfMeasureCodeTransaction>EA</unitOfMeasureCodeTransaction></quantity><shipTo><entityId>512444</entityId></shipTo></detail><financial><currencyCode>USD</currencyCode><paymentTerms>   </paymentTerms></financial><holdOrderCode>  </holdOrderCode><salesOrderKey><documentCompany>01700</documentCompany><documentNumber>463672</documentNumber><documentTypeCode>SA</documentTypeCode></salesOrderKey><shipTo><addressLine1>4596 S Tracy Blvd</addressLine1><addressLine2></addressLine2><addressLine3></addressLine3><addressLine4>04049379801</addressLine4><city>tracy</city><countryCode>US</countryCode><countyCode>US</countyCode><customer><entityId>512444</entityId><entityLongId>                    </entityLongId><entityTaxId>                    </entityTaxId></customer><mailingName>Dhiraj Suthar</mailingName><postalCode>95377</postalCode><stateCode>CA</stateCode></shipTo></header></ns0:processSalesOrderV4Response></S:Body></S:Envelope>
+***************
+<?xml version = "1.0" encoding = "UTF-8"?><env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:ns2="http://oracle.e1.bssv.JP420000/"><env:Header><ns1:Security><ns1:UsernameToken><ns1:Username>WPSTORES</ns1:Username><ns1:Password>tracyripon</ns1:Password></ns1:UsernameToken></ns1:Security></env:Header>   <env:Body>
+    <ns2:processSalesOrderV4>
+    <header>
+    <businessUnit>17</businessUnit>
+    <customerPO>23243422421</customerPO>
+        <detail>
+            <businessUnit>03</businessUnit>
+            <processing>
+                <actionType>A</actionType>
+            </processing>
+            <product>
+                <item>
+            <itemProduct>P12109-05</itemProduct>
+                </item>
+            </product>
+            <quantityOrdered>1</quantityOrdered>
+            <unitOfMeasureCodeTransaction>EA</unitOfMeasureCodeTransaction>
+            <reference>61977</reference>
+        </detail><orderTakenBy>WEBSAMPLE</orderTakenBy>
+    <orderedBy>Dhiraj S S</orderedBy>
+    <processing>
+        <actionType>A</actionType>
+        <processingVersion>TWG420023</processingVersion>
+    </processing>
+    <attachmentText>This is test order. Please do not ship.</attachmentText>
+    <dateRequested>2024-03-05T00:00:00</dateRequested>
+    <shipTo>
+        <mailingName>Dhiraj Suthar</mailingName>
+        <addressLine1>4596 S Tracy Blvd</addressLine1>
+        <addressLine2></addressLine2>
+        <addressLine4>04049379801</addressLine4>
+        <city>tracy</city>
+        <countryCode>US</countryCode>
+        <countyCode>US</countyCode>
+        <customer>
+            <entityId>512444</entityId>
+        </customer>
+        <postalCode>95377</postalCode>
+        <stateCode>CA</stateCode>
+    </shipTo><soldTo>
+        <mailingName>Dhiraj Suthar</mailingName>
+        <addressLine1>4596 S Tracy Blvd</addressLine1>
+        <addressLine2></addressLine2>
+        <addressLine4>04049379801</addressLine4>
+        <city>tracy</city>
+        <countryCode>US</countryCode>
+        <countyCode>US</countyCode>
+        <customer>
+            <entityId>510674</entityId>
+        </customer>
+        <postalCode>95377</postalCode>
+        <stateCode>CA</stateCode>
+    </soldTo ></header>
+    </ns2:processSalesOrderV4>
+    </env:Body></env:Envelope>
+==============
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><S:Body><ns0:processSalesOrderV4Response xmlns:ns0="http://oracle.e1.bssv.JP420000/"><e1MessageList><e1Messages><message>Cause. . . . . The Customer Order Number that has been entered has&#xd;
+               also been entered on another order.&#xd;
+Resolution . . This is a warning only.&#xd;
+               Verify that in fact this order has not already been&#xd;
+               entered into the system or hit enter to continue.&#xd;
+</message><messagePrefix>B4204200 ProcessSOHeader:</messagePrefix></e1Messages></e1MessageList><header><actionType>A</actionType><amountTotalOrderDomestic>0</amountTotalOrderDomestic><amountTotalOrderForeign>0</amountTotalOrderForeign><attachmentText>This is test order. Please do not ship.</attachmentText><businessUnit>          17</businessUnit><customerPO>23243422421</customerPO><dates><orderDate>2024-02-27T00:00:00-08:00</orderDate></dates><delivery><carrier/></delivery><detail><dates/><delivery><carrier/></delivery><documentLineNumber>0</documentLineNumber><financial><priceExtendedDomestic>0</priceExtendedDomestic><priceExtendedForeign>0</priceExtendedForeign><priceUnitDomestic>0</priceUnitDomestic><priceUnitForeign>0</priceUnitForeign><unitOfMeasureCodePricing>CA</unitOfMeasureCodePricing></financial><product><item><itemCatalog>P12109-05                </itemCatalog><itemId>2750585</itemId><itemProduct>P12109-05</itemProduct></item><lineTypeCode>S</lineTypeCode><lotNumber>                              </lotNumber><statusCodeLast>520</statusCodeLast><statusCodeNext>544</statusCodeNext></product><quantity><quantityBackOrdered>0</quantityBackOrdered><quantityCanceled>0</quantityCanceled><quantityOrdered>1</quantityOrdered><quantityShippable>1</quantityShippable><unitOfMeasureCodeTransaction>EA</unitOfMeasureCodeTransaction></quantity><shipTo><entityId>512444</entityId></shipTo></detail><financial><currencyCode>USD</currencyCode><paymentTerms>   </paymentTerms></financial><holdOrderCode>  </holdOrderCode><salesOrderKey><documentCompany>01700</documentCompany><documentNumber>463674</documentNumber><documentTypeCode>SA</documentTypeCode></salesOrderKey><shipTo><addressLine1>4596 S Tracy Blvd</addressLine1><addressLine2></addressLine2><addressLine3></addressLine3><addressLine4>04049379801</addressLine4><city>tracy</city><countryCode>US</countryCode><countyCode>US</countyCode><customer><entityId>512444</entityId><entityLongId>                    </entityLongId><entityTaxId>                    </entityTaxId></customer><mailingName>Dhiraj Suthar</mailingName><postalCode>95377</postalCode><stateCode>CA</stateCode></shipTo></header></ns0:processSalesOrderV4Response></S:Body></S:Envelope>
+***************
+<?xml version = "1.0" encoding = "UTF-8"?><env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:ns2="http://oracle.e1.bssv.JP420000/"><env:Header><ns1:Security><ns1:UsernameToken><ns1:Username>WPSTORES</ns1:Username><ns1:Password>tracyripon</ns1:Password></ns1:UsernameToken></ns1:Security></env:Header>   <env:Body>
+    <ns2:processSalesOrderV4>
+    <header>
+    <businessUnit>17</businessUnit>
+    <customerPO>23243422421</customerPO>
+        <detail>
+            <businessUnit>03</businessUnit>
+            <processing>
+                <actionType>A</actionType>
+            </processing>
+            <product>
+                <item>
+            <itemProduct>P12281-02</itemProduct>
+                </item>
+            </product>
+            <quantityOrdered>1</quantityOrdered>
+            <unitOfMeasureCodeTransaction>EA</unitOfMeasureCodeTransaction>
+            <reference>61978</reference>
+        </detail><orderTakenBy>WEBSAMPLE</orderTakenBy>
+    <orderedBy>Dhiraj S S</orderedBy>
+    <processing>
+        <actionType>A</actionType>
+        <processingVersion>TWG420023</processingVersion>
+    </processing>
+    <attachmentText>This is test order. Please do not ship.</attachmentText>
+    <dateRequested>2024-03-05T00:00:00</dateRequested>
+    <shipTo>
+        <mailingName>Dhiraj Suthar</mailingName>
+        <addressLine1>4596 S Tracy Blvd</addressLine1>
+        <addressLine2></addressLine2>
+        <addressLine4>04049379801</addressLine4>
+        <city>tracy</city>
+        <countryCode>US</countryCode>
+        <countyCode>US</countyCode>
+        <customer>
+            <entityId>512444</entityId>
+        </customer>
+        <postalCode>95377</postalCode>
+        <stateCode>CA</stateCode>
+    </shipTo><soldTo>
+        <mailingName>Dhiraj Suthar</mailingName>
+        <addressLine1>4596 S Tracy Blvd</addressLine1>
+        <addressLine2></addressLine2>
+        <addressLine4>04049379801</addressLine4>
+        <city>tracy</city>
+        <countryCode>US</countryCode>
+        <countyCode>US</countyCode>
+        <customer>
+            <entityId>510674</entityId>
+        </customer>
+        <postalCode>95377</postalCode>
+        <stateCode>CA</stateCode>
+    </soldTo ></header>
+    </ns2:processSalesOrderV4>
+    </env:Body></env:Envelope>
+==============
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><S:Body><ns0:processSalesOrderV4Response xmlns:ns0="http://oracle.e1.bssv.JP420000/"><e1MessageList><e1Messages><message>Cause. . . . . The Customer Order Number that has been entered has&#xd;
+               also been entered on another order.&#xd;
+Resolution . . This is a warning only.&#xd;
+               Verify that in fact this order has not already been&#xd;
+               entered into the system or hit enter to continue.&#xd;
+</message><messagePrefix>B4204200 ProcessSOHeader:</messagePrefix></e1Messages></e1MessageList><header><actionType>A</actionType><amountTotalOrderDomestic>0</amountTotalOrderDomestic><amountTotalOrderForeign>0</amountTotalOrderForeign><attachmentText>This is test order. Please do not ship.</attachmentText><businessUnit>          17</businessUnit><customerPO>23243422421</customerPO><dates><orderDate>2024-02-27T00:00:00-08:00</orderDate></dates><delivery><carrier/></delivery><detail><dates/><delivery><carrier/></delivery><documentLineNumber>0</documentLineNumber><financial><priceExtendedDomestic>0</priceExtendedDomestic><priceExtendedForeign>0</priceExtendedForeign><priceUnitDomestic>0</priceUnitDomestic><priceUnitForeign>0</priceUnitForeign><unitOfMeasureCodePricing>CA</unitOfMeasureCodePricing></financial><product><item><itemCatalog>P12281-02                </itemCatalog><itemId>2456706</itemId><itemProduct>P12281-02</itemProduct></item><lineTypeCode>S</lineTypeCode><lotNumber>                              </lotNumber><statusCodeLast>520</statusCodeLast><statusCodeNext>544</statusCodeNext></product><quantity><quantityBackOrdered>0</quantityBackOrdered><quantityCanceled>0</quantityCanceled><quantityOrdered>1</quantityOrdered><quantityShippable>1</quantityShippable><unitOfMeasureCodeTransaction>EA</unitOfMeasureCodeTransaction></quantity><shipTo><entityId>512444</entityId></shipTo></detail><financial><currencyCode>USD</currencyCode><paymentTerms>   </paymentTerms></financial><holdOrderCode>  </holdOrderCode><salesOrderKey><documentCompany>01700</documentCompany><documentNumber>463689</documentNumber><documentTypeCode>SA</documentTypeCode></salesOrderKey><shipTo><addressLine1>4596 S Tracy Blvd</addressLine1><addressLine2></addressLine2><addressLine3></addressLine3><addressLine4>04049379801</addressLine4><city>tracy</city><countryCode>US</countryCode><countyCode>US</countyCode><customer><entityId>512444</entityId><entityLongId>                    </entityLongId><entityTaxId>                    </entityTaxId></customer><mailingName>Dhiraj Suthar</mailingName><postalCode>95377</postalCode><stateCode>CA</stateCode></shipTo></header></ns0:processSalesOrderV4Response></S:Body></S:Envelope>
+***************

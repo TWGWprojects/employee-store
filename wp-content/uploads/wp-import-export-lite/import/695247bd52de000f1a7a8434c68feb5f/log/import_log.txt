@@ -1,0 +1,32 @@
+[07:46:59] <strong>Record</strong> #1
+[07:46:59] taxonomy #5502 Successfully Imported
+[07:46:59] <strong>Record</strong> #2
+[07:46:59] taxonomy #5503 Successfully Imported
+[07:46:59] <strong>Record</strong> #3
+[07:46:59] taxonomy #5504 Successfully Imported
+[07:46:59] <strong>Record</strong> #4
+[07:46:59] taxonomy #5505 Successfully Imported
+[07:46:59] <strong>Record</strong> #5
+[07:46:59] taxonomy #5506 Successfully Imported
+[07:46:59] <strong>Record</strong> #6
+[07:46:59] taxonomy #5507 Successfully Imported
+[07:46:59] <strong>Record</strong> #7
+[07:46:59] taxonomy #5508 Successfully Imported
+[07:46:59] <strong>Record</strong> #8
+[07:46:59] taxonomy #5509 Successfully Imported
+[07:46:59] <strong>Record</strong> #9
+[07:46:59] taxonomy #5510 Successfully Imported
+[07:46:59] <strong>Record</strong> #10
+[07:46:59] taxonomy #5511 Successfully Imported
+[07:46:59] <strong>Record</strong> #11
+[07:46:59] taxonomy #5512 Successfully Imported
+[07:46:59] <strong>Record</strong> #12
+[07:46:59] taxonomy #5513 Successfully Imported
+[07:46:59] <strong>Record</strong> #13
+[07:46:59] taxonomy #5514 Successfully Imported
+[07:46:59] <strong>Record</strong> #14
+[07:46:59] taxonomy #5515 Successfully Imported
+[07:46:59] <strong>Record</strong> #15
+[07:46:59] taxonomy #5516 Successfully Imported
+[07:46:59] <strong>Record</strong> #16
+[07:46:59] taxonomy #5517 Successfully Imported

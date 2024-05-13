@@ -20,7 +20,7 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'employee-store' );
+define( 'DB_NAME', 'winegroup-new' );
 
 /** Database username */
 define( 'DB_USER', 'root' );
@@ -29,7 +29,7 @@ define( 'DB_USER', 'root' );
 define( 'DB_PASSWORD', '' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', '127.0.0.1' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
@@ -65,7 +65,7 @@ define( 'NONCE_SALT',       '/kv@}R:q&>X=.Hbz-RBDN1qoa?Y5MhYap_Ddn[nY~5eL8V~@s5Z
  * You can have multiple installations in one database if you give each
  * a unique prefix. Only numbers, letters, and underscores please!
  */
-$table_prefix = 'wine_';
+$table_prefix = 'wine_';  
 
 /**
  * For developers: WordPress debugging mode.
@@ -83,11 +83,12 @@ define( 'WP_DEBUG', false );
 define( 'WP_DEBUG_DISPLAY', false ); 
 define( 'WP_DEBUG_LOG', false ); 
 define( 'WP_MAX_MEMORY_LIMIT' , '512M' );
+define('WP_MEMORY_LIMIT', '256M');
 
-
+ 
 /* Add any custom values between this line and the "stop editing" line. */
 
-
+set_time_limit(300);
 
 /* That's all, stop editing! Happy publishing. */
 

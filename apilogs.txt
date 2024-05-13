@@ -2,7 +2,7 @@
     <ns2:processSalesOrderV4>
     <header>
     <businessUnit>17</businessUnit>
-    <customerPO>23243422421</customerPO>
+    <customerPO>1</customerPO>
         <detail>
             <businessUnit>03</businessUnit>
             <processing>
@@ -10,46 +10,46 @@
             </processing>
             <product>
                 <item>
-            <itemProduct>P12281-02</itemProduct>
+            <itemProduct>P13050-02</itemProduct>
                 </item>
             </product>
-            <quantityOrdered>1</quantityOrdered>
+            <quantityOrdered>3</quantityOrdered>
             <unitOfMeasureCodeTransaction>EA</unitOfMeasureCodeTransaction>
-            <reference>61978</reference>
+            <reference>62433</reference>
         </detail><orderTakenBy>WEBSAMPLE</orderTakenBy>
-    <orderedBy>Dhiraj S S</orderedBy>
+    <orderedBy>Gabriel  V</orderedBy>
     <processing>
         <actionType>A</actionType>
         <processingVersion>TWG420023</processingVersion>
     </processing>
-    <attachmentText>This is test order. Please do not ship.</attachmentText>
-    <dateRequested>2024-03-05T00:00:00</dateRequested>
+    <attachmentText>Hello - Can you please ship these for 2 Day delivery? I would like them to arrive by end of day on the 15th.</attachmentText>
+    <dateRequested>2024-05-17T00:00:00</dateRequested>
     <shipTo>
-        <mailingName>Dhiraj Suthar</mailingName>
-        <addressLine1>4596 S Tracy Blvd</addressLine1>
+        <mailingName>Gabriel Valle</mailingName>
+        <addressLine1>1000 Darden Center Dr</addressLine1>
         <addressLine2></addressLine2>
-        <addressLine4>04049379801</addressLine4>
-        <city>tracy</city>
+        <addressLine4>4076949567</addressLine4>
+        <city>Orlando</city>
         <countryCode>US</countryCode>
         <countyCode>US</countyCode>
         <customer>
-            <entityId>512444</entityId>
+            <entityId>512443</entityId>
         </customer>
-        <postalCode>95377</postalCode>
-        <stateCode>CA</stateCode>
+        <postalCode>32837</postalCode>
+        <stateCode>FL</stateCode>
     </shipTo><soldTo>
-        <mailingName>Dhiraj Suthar</mailingName>
-        <addressLine1>4596 S Tracy Blvd</addressLine1>
+        <mailingName>Gabriel Valle</mailingName>
+        <addressLine1>1000 Darden Center Dr</addressLine1>
         <addressLine2></addressLine2>
-        <addressLine4>04049379801</addressLine4>
-        <city>tracy</city>
+        <addressLine4>4076949567</addressLine4>
+        <city>Orlando</city>
         <countryCode>US</countryCode>
         <countyCode>US</countyCode>
         <customer>
             <entityId>510674</entityId>
         </customer>
-        <postalCode>95377</postalCode>
-        <stateCode>CA</stateCode>
+        <postalCode>32837</postalCode>
+        <stateCode>FL</stateCode>
     </soldTo ></header>
     </ns2:processSalesOrderV4>
     </env:Body></env:Envelope>
